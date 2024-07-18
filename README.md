@@ -1,5 +1,7 @@
 # Leveraging Data Analytics for Environmental Sustainability
 #### This repository demonstrates the application of data analytics for environmental sustainability, focusing on pollution remediation and product management. It includes research conducted with contaminated mining samples from the Davidschacht mining area in Freiberg, Sachsen. The project aims to optimize pollution reduction strategies and enhance sustainable product development by leveraging advanced analytical techniques.
+# Objective: 
+#### Investigated the remediation of heavy metal contamination in tailing soils from Davidschacht (Freiberg) using Zea mays and Fagopyrum esculentum.
 # Case Study
 #### Research on contaminated soils from Davidschacht mining area, Freiberg, Sachsen, 09599 (Germany) with Tailing which was in operation from 1951 to 1964. It has an area of approximately 6.3 ha and a volume of approximately 760,000 m3.
 # Thesis Topic
@@ -27,3 +29,11 @@
 ##### § Control (8 pots, 4 for each test plant)
 ##### § Rhizovital (0.4ml) (8 pots, 4 for each test plant)
 #### • Growth time for plants 10 weeks.
+## Methodology: 
+#### Applied a combination of Bacillus amyloliquefaciens and varying concentrations of artificial root exudates (ARE) to assess their impact on the efficiency of phytoremediation.
+## Data Analysis: 
+#### Utilized advanced data analytics and statistical analysis to evaluate the effectiveness of the soil amendments in reducing heavy metal toxicity.
+## Results: 
+#### Demonstrated significant improvements in phytoremediation outcomes, contributing valuable insights into sustainable soil remediation practices.
+## Impact: 
+#### Enhanced understanding of the synergistic effects of bacterial and root exudate amendments, providing a foundation for future environmental sustainability projects.
